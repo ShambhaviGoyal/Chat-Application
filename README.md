@@ -4,10 +4,9 @@ A real-time chat application built with Flask, Flask-SocketIO, SQLAlchemy, and m
 Features include multiple themed chat rooms, secure user authentication, private messaging, emoji reactions, typing indicators, and light/dark themes — all wrapped in a responsive UI.
 
 ---
-
 ## 🎥 Demo
 
-[▶️ Watch the Demo]([https://user-images.githubusercontent.com/1234567/abcdefg-demo.mp4](https://github.com/user-attachments/assets/863874b4-d5bd-4bfe-b2fe-c4f34c643ed7))
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/863874b4-d5bd-4bfe-b2fe-c4f34c643ed7)
 
 
 
