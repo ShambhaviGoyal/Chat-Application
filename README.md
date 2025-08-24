@@ -5,8 +5,9 @@ Features include multiple themed chat rooms, secure user authentication, private
 
 ---
 
-## Demo 🎥
-![Project Demo](demo.mp4)
+
+## 🎥 Demo Video
+[Download / Watch the Demo (MP4)](https://github.com/ShambhaviGoyal/Chat-Application/releases/tag/demo-2025-08-23)
 
 ## Features
 
