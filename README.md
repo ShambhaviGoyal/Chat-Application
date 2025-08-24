@@ -6,7 +6,9 @@ Features include multiple themed chat rooms, secure user authentication, private
 ---
 ## 🎥 Demo
 
-[▶️ Watch the Demo](https://github.com/user-attachments/assets/863874b4-d5bd-4bfe-b2fe-c4f34c643ed7)
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/5d0b4743-3a6a-4543-a902-d4c08ae321d8)
+
+
 
 
 
